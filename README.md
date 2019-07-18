@@ -1,3 +1,4 @@
-# Material del Taller Introducción a Redes Neuronales Dictado por Ariel Curiale 
+# Material del Taller Introducción a Redes Neuronales dictado por el Profesor Ariel Curiale.-
+# UNSa - SALTA - Septiembre 2018.-
 
 
